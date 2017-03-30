@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1490809856 source:c:\program files (x86)\codeblocks\projects\vector_reimplementation\main.cpp
+	<iostream>
+
+1490809563 source:c:\program files (x86)\codeblocks\projects\vector_reimplementation\src\vector.cpp
+	"Vector.h"
+
+1490809541 c:\program files (x86)\codeblocks\projects\vector_reimplementation\include\vector.h
+
